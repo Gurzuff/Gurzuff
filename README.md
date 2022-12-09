@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mihail Kosov
-- 👀 I’m interested in DS and blockchain
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Mikhail Kosov
+- 👀 I’m interested in DS, ML, CV, NN, etc.
+- 🌱 I’m currently learning Python (numpy, pandas, sk-learn, pytorch, etc.), Git, Linux, Docker, MySQL
 - 💞️ I’m looking to collaborate on studies for beginners
-- 📫 Ukraine, Dnepr ...
+- 📫 Ukraine, Dnepr
